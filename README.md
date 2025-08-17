@@ -90,3 +90,7 @@ For production, secure your API keys and CORS settings.
 Author
 
 Gareth Mubaiwa – Intern / Developer / Data Scientist
+
+
+app not fully working still in making and customization so needs editing
+
